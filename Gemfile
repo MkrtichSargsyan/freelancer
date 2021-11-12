@@ -7,6 +7,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 gem 'bulma-extensions-rails', '~> 6.2', '>= 6.2.7'
 gem 'bulma-rails', '~> 0.8.0'
 gem 'devise', '~> 4.8'
+gem 'hirb', '~> 0.7.3'
 gem 'htmlbeautifier'
 gem 'jbuilder', '~> 2.7'
 gem 'omniauth'
